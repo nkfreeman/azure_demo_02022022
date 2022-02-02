@@ -25,7 +25,7 @@ app.config["DEBUG"] = True
 @app.route('/', methods=['GET'])
 def home():       
             
-    return 'App is Healthy'
+    return 'App is Very Healthy'
 
 
 @app.route('/predict', methods=['POST'])
