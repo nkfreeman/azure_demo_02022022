@@ -1,0 +1,1 @@
+{"Sex": ["Sex_M"], "ChestPainType": ["ChestPainType_ATA", "ChestPainType_NAP", "ChestPainType_TA"], "RestingECG": ["RestingECG_Normal", "RestingECG_ST"], "ExerciseAngina": ["ExerciseAngina_Y"], "ST_Slope": ["ST_Slope_Flat", "ST_Slope_Up"]}
